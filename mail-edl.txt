@@ -2,4 +2,4 @@ badmail@mail.com
 
 phishing@attacker.org
 phishing@attacker.org
-malicioususer@domain.com
+phishing@attacker.org
