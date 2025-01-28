@@ -1,1 +1,3 @@
 virus.exe
+
+malicious_file.exe,ransomware_payload.zip,suspicious_document.pdf
