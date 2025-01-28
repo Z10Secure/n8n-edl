@@ -1,1 +1,3 @@
 badmail@mail.com
+
+spam@example.com
