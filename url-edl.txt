@@ -2,3 +2,4 @@ badsite.com
 
 Cdndate.live
 Cdndate.live
+maliciousdomain.com
