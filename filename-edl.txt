@@ -2,4 +2,4 @@
 
 Cdndate.live
 ,sha256
-,SHA-256
+kuku.exe
