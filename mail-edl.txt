@@ -1,3 +1,2 @@
 
-
-phishing@attacker.org
+spam@example.com
