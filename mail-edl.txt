@@ -4,3 +4,4 @@ phishing@attacker.org
 phishing@attacker.org
 phishing@attacker.org
 phishing@attacker.org
+spam@example.com
