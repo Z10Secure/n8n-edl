@@ -1,4 +1,1 @@
 
-spam@example.com
-malicioususer@domain.com
-phishing@attacker.org
